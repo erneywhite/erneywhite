@@ -6,7 +6,7 @@
 
 <p>
 <samp>
-/ <a href="https://erney.monster">erney.monster</a>
+/ <a href="https://clipwire.erney.monster">clipwire</a>
 / <a href="https://mods.vintagestory.at/evistoolwin">moddb</a> /
 </samp>
 </p>
